@@ -4,3 +4,7 @@ Rock-Paper-Scissors is a game where two players 1.you 2.the comupter choose from
 This is an example how it works:
 if you choose paper and the computer chooses rock -You Win, beacuse the paper covers the rock.
 if the you choose paper and the computer chooses scissors-The Computer Wins, beacuse the paper gets cut by the scissors.
+
+##  Play Live Demo Here:
+
+https://replit.com/@boyantsarski/rockpaperscissors-game#Main.cs
